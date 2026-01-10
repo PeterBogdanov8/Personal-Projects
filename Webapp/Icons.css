@@ -1,0 +1,38 @@
+﻿.addIcon {
+    cursor:pointer;
+    background: url("Images/add-icon.png");
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+}
+
+.deleteIcon {
+    cursor:pointer;
+    background: url("Images/delete-icon.png");
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+}
+
+.editIcon {
+    cursor:pointer;
+    background: url("Images/edit-icon.jpg");
+    background-size: 34px 40px;
+    background-repeat:no-repeat;
+    width: 41px;
+    height: 41px;
+}
+
+.searchIcon {
+    cursor: pointer;
+    background: url("Images/search-icon.png");
+    background-color: #f4f4f4;
+    background-size: 19px 19px;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+    vertical-align: -4px;
+    margin-left: -6px;
+}

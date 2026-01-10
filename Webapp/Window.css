@@ -1,0 +1,27 @@
+﻿.window {
+    background: #e6e6e6;
+    width: min-content;
+    border: 1px solid black;
+    border-radius: 4px;
+    position: absolute;
+    left: 42%;
+    top: 38%;
+}
+
+.window td {
+    color: black;
+}
+
+.window label {
+    margin-left: 62px;
+}
+
+.window table {
+    border: none;
+}
+
+.window span:hover {
+    background-color: #ed2d2d;
+}
+
+

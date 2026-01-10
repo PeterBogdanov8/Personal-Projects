@@ -1,0 +1,21 @@
+﻿body {
+    background-image: url('Images/CustomerDetails/background.jpg');
+    background-size: 1300px 568px;
+    margin: 0px;
+}
+
+#customerTable {
+    margin: auto;
+    margin-top: 25px !important;
+    background: black;
+}
+
+td {
+    color: white;
+}
+
+#labelCustomerDetails {
+    font-weight: bold;
+}
+
+

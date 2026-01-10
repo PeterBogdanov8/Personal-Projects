@@ -1,0 +1,15 @@
+﻿body {
+    background-image: url('Images/AddCustomerTours/background.jpg');
+    background-size: cover;
+    margin: 0px;
+}
+
+#addToursTable {
+    margin: auto;
+    background: black;
+    margin-top: 84px;
+}
+
+td {
+    color: white;
+}

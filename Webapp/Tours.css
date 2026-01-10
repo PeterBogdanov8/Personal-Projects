@@ -1,0 +1,71 @@
+﻿body {
+    background-image: url("Images/Tours/background.jpg");
+    background-size: cover;
+    margin: 0px;
+}
+
+#tourTable {
+    background: black;
+}
+
+.hidden {
+    display: none;
+}
+
+td {
+    color: white;
+    text-align: center;
+}
+
+th {
+    color: white;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+#editCustomerWindow td {
+    border: none;
+    border-collapse: collapse;
+}
+
+#txtPayment {
+    width: 170px;
+}
+
+#txtNewPayment {
+    width: 170px;
+}
+
+#txtDate {
+    width: 165px;
+}
+
+#closeEditWindow {
+    margin-left: 20px;
+}
+
+#customerList {
+    margin: auto;
+    width: min-content;
+}
+
+#btnAddCustomer {
+    border-radius: 0px;
+}
+
+#addCustomerWindow td {
+    border: none;
+}
+
+#closeAddCustomerWindow {
+    margin-left: 20px;
+}
+
+#searchBar {
+    margin-left: -4px;
+}
+
