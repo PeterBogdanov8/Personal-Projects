@@ -1,0 +1,29 @@
+{
+  "pipelines": [1, 2, 3],
+  "tasks": [
+    {
+      "budget": 400000,
+      "job": "Analyst"
+    },
+    {
+      "budget": 300000,
+      "job": "Manager"
+    },
+    {
+      "budget": 500000,
+      "job": "Director"
+    },
+    {
+      "budget": 200000,
+      "job": "Developer"
+    },
+    {
+      "budget": 500000,
+      "job": "Business Analyst"
+    },
+    {
+      "budget": 800000,
+      "job": "Data Analyst"
+    }
+  ]
+}
