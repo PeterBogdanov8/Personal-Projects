@@ -1,0 +1,6 @@
+
+java --module-path "C:\Users\peter\Downloads\openjfx-11sdk\javafx-sdk-11\lib" --add-modules javafx.controls,javafx.fxml -jar AppJar.jar
+
+java --module-path "C:\Users\peter\Downloads\openjfx-11sdk\javafx-sdk-11\lib" --add-modules javafx.controls,javafx.fxml -jar DashboardJar.jar
+
+java --module-path "C:\Users\peter\Downloads\openjfx-11sdk\javafx-sdk-11\lib" --add-modules javafx.controls,javafx.fxml -jar PartyAdderJar.jar
